@@ -98,6 +98,7 @@
 
 **推荐使用的镜像 web 版本**
 
+[**`linux.citie.dpdns.org`**](https://linux.citie.dpdns.org/)
 [**`linux.zenroly.com`**](https://linux.zenroly.com)
 [**`itool123.cn`**](https://linux.itool123.cn)
 [**`235978.xyz`**](https://linux-command.235978.xyz)
@@ -557,7 +558,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/hanwei1980" title="hanwei"><img src="https://avatars.githubusercontent.com/u/1889245?v=4" width="42;" alt="hanwei"/></a>
 <a href="https://github.com/gcluffy" title="gcluffy"><img src="https://avatars.githubusercontent.com/u/39456622?v=4" width="42;" alt="gcluffy"/></a>
 <a href="https://github.com/hotdogc1017" title="hotdogc1017"><img src="https://avatars.githubusercontent.com/u/126151508?v=4" width="42;" alt="hotdogc1017"/></a>
-<a href="https://github.com/huangyoo" title="Mr.BigBelly"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="Mr.BigBelly"/></a>
+<a href="https://github.com/huangyoo" title="三士"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="三士"/></a>
 <a href="https://github.com/lxp731" title="七朔"><img src="https://avatars.githubusercontent.com/u/95358476?v=4" width="42;" alt="七朔"/></a>
 <a href="https://github.com/gclm" title="孤城落寞"><img src="https://avatars.githubusercontent.com/u/27618687?v=4" width="42;" alt="孤城落寞"/></a>
 <a href="https://github.com/kindevil" title="尘埃"><img src="https://avatars.githubusercontent.com/u/846488?v=4" width="42;" alt="尘埃"/></a>
